@@ -1,0 +1,15 @@
+﻿  filters.c
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\filters.c(29,47): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\filters.c(169,75): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\filters.c(221,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\filters.c(222,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\filters.c(223,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\filters.c(322,55): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\filters.c(323,55): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\filters.c(324,55): warning C4244: 'initializing': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\filters.c(311,10): warning C4101: 'gray': unreferenced local variable
+  main.c
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\main.c(7,16): warning C4013: 'error' undefined; assuming extern returning int
+C:\Users\ammus\Work\ammusani\bmp_filter\bmp_filter\main.c(20,4): warning C4013: 'insert_subfolder' undefined; assuming extern returning int
+  Generating Code...
+  bmp_filter.vcxproj -> C:\Users\ammus\Work\ammusani\bmp_filter\x64\Debug\bmp_filter.exe
